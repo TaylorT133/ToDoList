@@ -1,0 +1,10 @@
+.center {
+    display: inline-block;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  .box {
+      text-align: center;
+
+  }
